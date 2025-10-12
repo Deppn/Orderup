@@ -1,0 +1,41 @@
+# ========== Unity Git Ignore ==========
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+UserSettings/
+MemoryCaptures/
+
+# IDE (Visual Studio, JetBrains Rider, etc.)
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IL2CPP artifacts
+*.dbg
+*.sym
+*.so
+*.pdb
+
+# Android build outputs
+*.apk
+*.aab
+
+# Crash/Profiler data
+*.stacktrace
+*.dmp
+
+# ========== END ==========

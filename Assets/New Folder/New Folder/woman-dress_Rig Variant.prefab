@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &5207935790843520819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6001207425477034391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf76324a5a081b74a92cd68b2dc5f44a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startPoint: {fileID: 0}
+  endPoint: {fileID: 0}
+  stopDistance: 0.5
+--- !u!1001 &3780657909111094102
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3056100067431499397, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164603951809, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_Name
+      value: woman-dress_Rig Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439676164604372643, guid: dd271800762b5cd49990471217173774,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8120864930679612435, guid: dd271800762b5cd49990471217173774, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: dd271800762b5cd49990471217173774, type: 3}
+--- !u!1 &6001207425477034391 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7439676164603951809, guid: dd271800762b5cd49990471217173774,
+    type: 3}
+  m_PrefabInstance: {fileID: 3780657909111094102}
+  m_PrefabAsset: {fileID: 0}
