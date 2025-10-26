@@ -1,4 +1,4 @@
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+![til](./ezgif-156bcd08a6adc6.gif)
 Android VR Game, use mouse to control movement and interact (use otg)
 
 
